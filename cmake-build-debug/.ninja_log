@@ -1,0 +1,9 @@
+# ninja log v5
+22	709	7178114172860735	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/main.cpp.obj	6712f3f216d0783d
+1	717	7178114172910617	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/src/Utilidades.cpp.obj	b46b18c98b4569d5
+5	718	7178114172985589	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/src/Vector.cpp.obj	99f002fe90f907d7
+10	806	7178114173923118	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/src/Item.cpp.obj	c517eef7c5d08b3e
+16	835	7178114174227560	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/src/Menu.cpp.obj	6216dfdfedd18e5f
+27	889	7178114174756145	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/src/Inventario.cpp.obj	f7b0618e855dc591
+711	1143	7178114177305381	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/src/PerfilUsuario.cpp.obj	4c3a4137b5c9d31e
+1143	1267	7178114178521816	C:/Users/maria/Downloads/110280_Pizzi_TP1/programa.exe.exe	645b94d4c6566efe
